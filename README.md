@@ -1,2 +1,4 @@
-# SC1015
-This contains the files required for our project.
+# Twitter-Sentiment-Analysis
+SC1015 Introduction to Data Science and Artificial Intelligence Mini-Project
+
+
