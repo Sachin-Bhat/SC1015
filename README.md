@@ -3,11 +3,22 @@ SC1015 Introduction to Data Science and Artificial Intelligence Mini-Project
 
 ## About
 
+Mini-project for SC1015 - "Data Science and Artificial Intelligence"  focusing on the detection of hate speech in tweets using DS and NLP concepts. 
+
+The dataset can be found here:
+https://www.kaggle.com/datasets/dv1453/twitter-sentiment-analysis-analytics-vidya?select=train_E6oV3lV.csv
+
 ## Contributors
 * Bhat Sachin   &#8594;
 * Nalin Sharma  &#8594;
 
 ## Motivations/Problem Statement
+
+Motivations: In a democratic context, the right to free speech is deemed essential by many. People wish to voice their opinions on key decisions, capturing the essence of a democracy. This fundamental right can be used for promoting collaborative action, spreading awareness and fostering a two-way communication between the citizens of a country and its government. However, we must consider the flip side - the inclusion of derogatory, hurtful and biased opinion on a public platform may be the bad apple that can plague the collective mindset of our societies, negatively affecting them in ways that may be irreversible. The presence of hate speech online can materialise itself into physical hate crimes, and so it is probable that the government may wish to regulate the online presence of its citizens. If this were to happen, what would be the best approach algorithmically? 
+
+Problem statement/ definition - Effective implementation of Data Science and Natural Language Processing (NLP) concepts to find the best model to detect hate speech in tweets. 
+
+How can we effectively detect hate speech in tweets?
 
 ## Features
 - Bag-Of-Words
@@ -22,9 +33,34 @@ SC1015 Introduction to Data Science and Artificial Intelligence Mini-Project
 - RandomForest (RF)
 - XGBoost (XGB)
 
-## Reflections/Learning Points
+## Conclusion
 
-## References
+## Reflections/Learning Points
+1. Acquired knowledge on the interconnectedness between jupyter notebook, VSCode and GitHub.
+2. Learnt about the functionalities of the programs stated above. 
+3. Soft skills - learnt how to present a DSAI project in a structured, articulate manner, training us for our professional capacities in the future. 
+4. Performing Data Prep, Cleaning and EDA on a large textual dataset.
+5. Basics of 'text mining' in general.   
+6. An understanding of APIs and its documentation.
+7. Natural Language Processing concepts such as text normalisation, wordclouds to represent data, extracting features from tokenised strings, word embeddings and the workings of the various models as stated in previous sections. 
+8. Computation of F1 Scores 
+9. Use of added modules such as gensim and PorterStemmer to aid our project
+
+
+## References 
+1. https://www.washingtonpost.com/nation/2018/11/30/ 
+2. how-online-hate-speech-is-fueling-real-life-violence/
+3. https://time.com/6121915/reddit-international-hate-speech/
+4. https://scikit-learn.org/stable/
+5. https://docs.python.org/3/
+6. https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47
+7. https://monkeylearn.com/blog/what-is-tf-idf/
+8. https://medium.com/red-buffer/doc2vec-computing-similarity-between-the-documents-47daf6c828cd
+9. https://www.educative.io/edpresso/what-is-the-f1-score
+10. https://machinelearningmastery.com/gentle-introduction-bag-words-model/
+11. https://towardsdatascience.com/multi-class-text-classification-with-doc2vec-logistic-regression-9da9947b43f4
+
+
 
 ## General Setup Instructions
 Not all modules are available by default in the Anaconda Navigator package environment. For the project to be run on your system, kindly add `conda-forge` to your list of channels as shown below.
