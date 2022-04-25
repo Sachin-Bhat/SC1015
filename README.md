@@ -92,4 +92,4 @@ When a module needs to be installed, please install it by running the following 
 
 
 ## Note
-Kindly ignore the data file.
+Kindly ignore the data files.
