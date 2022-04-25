@@ -91,5 +91,4 @@ When a module needs to be installed, please install it by running the following 
 <code>conda install *name-of-module*</code>
 
 
-## Note
-Kindly ignore the data files.
+
