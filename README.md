@@ -89,3 +89,7 @@ Not all modules are available by default in the Anaconda Navigator package envir
 When a module needs to be installed, please install it by running the following command in a terminal: 
 
 <code>conda install *name-of-module*</code>
+
+
+## Note
+Kindly ignore the data file.
